@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- Демо проекта (Live Site): [Посмотреть проект]()
-- Исходный код (Repository): [GitHub репозиторий]()
+- Демо проекта (Live Site): [Посмотреть проект](https://recipe-page-zeta-ten.vercel.app)
+- Исходный код (Repository): [GitHub репозиторий](https://github.com/fraufer/recipe-page)
 
 ## Чему я научился в этом проекте:
 
